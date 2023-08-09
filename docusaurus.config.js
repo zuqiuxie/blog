@@ -207,9 +207,9 @@ const config = {
     [
       "@docusaurus/plugin-content-docs",
       {
-        id: "org",
+        id: "run",
         path: "group/organization",
-        routeBasePath: "org",
+        routeBasePath: "run",
         sidebarPath: require.resolve("./sidebars.js"),
         editUrl: "https://git.7wate.org/zhouzhongping/wiki/src/branch/master",
         showLastUpdateAuthor: true,
@@ -220,9 +220,9 @@ const config = {
     [
       "@docusaurus/plugin-content-docs",
       {
-        id: "com",
+        id: "ts",
         path: "group/company",
-        routeBasePath: "com",
+        routeBasePath: "ts",
         sidebarPath: require.resolve("./sidebars.js"),
         editUrl: "https://git.7wate.org/zhouzhongping/wiki/src/branch/master",
         showLastUpdateAuthor: true,
@@ -233,9 +233,9 @@ const config = {
     [
       "@docusaurus/plugin-content-docs",
       {
-        id: "gov",
+        id: "zq",
         path: "group/government",
-        routeBasePath: "gov",
+        routeBasePath: "zq",
         sidebarPath: require.resolve("./sidebars.js"),
         editUrl: "https://git.7wate.org/zhouzhongping/wiki/src/branch/master",
         showLastUpdateAuthor: true,
