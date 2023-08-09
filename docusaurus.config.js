@@ -411,7 +411,7 @@ const config = {
           },
           {
             position: "right",
-            label: "💼 组织",
+            label: "💼 运动",
             items: [
               {
                 label: "跑步运动",
