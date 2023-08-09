@@ -208,7 +208,7 @@ const config = {
       "@docusaurus/plugin-content-docs",
       {
         id: "run",
-        path: "group/organization",
+        path: "运动/跑步运动",
         routeBasePath: "run",
         sidebarPath: require.resolve("./sidebars.js"),
         editUrl: "https://git.7wate.org/zhouzhongping/wiki/src/branch/master",
@@ -221,7 +221,7 @@ const config = {
       "@docusaurus/plugin-content-docs",
       {
         id: "ts",
-        path: "group/company",
+        path: "运动/跳绳运动",
         routeBasePath: "ts",
         sidebarPath: require.resolve("./sidebars.js"),
         editUrl: "https://git.7wate.org/zhouzhongping/wiki/src/branch/master",
@@ -234,7 +234,7 @@ const config = {
       "@docusaurus/plugin-content-docs",
       {
         id: "zq",
-        path: "group/government",
+        path: "运动/足球运动",
         routeBasePath: "zq",
         sidebarPath: require.resolve("./sidebars.js"),
         editUrl: "https://git.7wate.org/zhouzhongping/wiki/src/branch/master",
