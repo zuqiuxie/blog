@@ -1,6 +1,6 @@
 ---
 slug: /
-sidebar_position: 1
+sidebar_position: 0.5
 id: home
 title: 跑步运动
 ---
