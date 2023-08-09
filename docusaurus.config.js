@@ -415,15 +415,15 @@ const config = {
             items: [
               {
                 label: "跑步运动",
-                to: "/org",
+                to: "/run",
               },
               {
-                label: "现代企业",
-                to: "/com",
+                label: "跳绳运动",
+                to: "/ts",
               },
               {
-                label: "国家政府",
-                to: "/gov",
+                label: "足球运动",
+                to: "/zq",
               },
             ]
           },
